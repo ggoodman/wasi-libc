@@ -79,7 +79,6 @@ hidden void __unlockfile(FILE *);
 
 hidden size_t __stdio_read(FILE *, unsigned char *, size_t);
 hidden size_t __stdio_write(FILE *, const unsigned char *, size_t);
-hidden size_t __stdout_write(FILE *, const unsigned char *, size_t);
 hidden off_t __stdio_seek(FILE *, off_t, int);
 hidden int __stdio_close(FILE *);
 
