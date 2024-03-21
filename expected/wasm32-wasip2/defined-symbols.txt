@@ -211,7 +211,6 @@ __stdio_seek
 __stdio_write
 __stdout_FILE
 __stdout_used
-__stdout_write
 __stpcpy
 __stpncpy
 __strcasecmp_l
